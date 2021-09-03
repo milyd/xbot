@@ -59,4 +59,4 @@ if (msg.content === '*banner') {
   }
 });
 
-client.login('ODUyNjE0ODYyODMyMjcxMzYx.YMJZeA.BiQ1m0C_yoadWIlFmcUvOzyDDTU');
+client.login('ej no kurde');
